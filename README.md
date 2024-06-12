@@ -1,0 +1,1 @@
+Welcome to Emoji Based Facial Expressions Library. This library provides a simple and intuitive way to represent various facial expressions using emoji. It can be used in chat applications, social media platforms, or any project that requires expressive emoji based communication.
